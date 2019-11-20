@@ -9,3 +9,4 @@ elif spam == 2:
     print('Howdy!')
 else:  
     print('Greetings!')
+    
